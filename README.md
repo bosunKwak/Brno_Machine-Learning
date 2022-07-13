@@ -1,1 +1,1 @@
-# Brno_Machine-Learning
+# Machine Learning course in BRNO university of technology
